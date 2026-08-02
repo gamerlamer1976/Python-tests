@@ -1,5 +1,5 @@
 import pytest
-from tasks import fio, words_count, encrypt
+from task_1_code import fio, words_count, encrypt
 
 
 @pytest.mark.parametrize(
